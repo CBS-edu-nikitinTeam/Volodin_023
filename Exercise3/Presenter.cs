@@ -7,6 +7,7 @@ namespace Exercise3
 {
     class Presenter
     {
+        // Супер!!!!
         private Model _model = null;
         private MainWindow _mainWindow = null;
 

@@ -87,6 +87,7 @@ namespace Exercise4
             return inputValid;
         }
 
+        // Как раз хорошо, что сделал свой тип события.
         public class ButtonClickEventArgs: EventArgs
         {
             public Model.Operations Operation { get; set; }
